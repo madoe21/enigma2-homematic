@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HomematicCCU 1.0.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d devices loaded  •  refresh every %ds"
+msgstr "%d devices loaded  •  refresh every %ds"
+
+msgid "%d system variables"
+msgstr "%d system variables"
+
+msgid "AN / AUS"
+msgstr "ON / OFF"
+
+msgid "CCU3 Host"
+msgstr "CCU3 Host"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Connection test failed: check host and credentials"
+msgstr "Connection test failed: check host and credentials"
+
+msgid "Connection test successful"
+msgstr "Connection test successful"
+
+msgid "Devices"
+msgstr "Devices"
+
+msgid "Error setting value: %s"
+msgstr "Error setting value: %s"
+
+msgid "Error – check settings (BLUE)"
+msgstr "Error – check settings (BLUE)"
+
+msgid "Homematic CCU3"
+msgstr "Homematic CCU3"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "LEFT/RIGHT = change  |  GREEN = save  |  RED = cancel"
+msgstr "LEFT/RIGHT = change  |  GREEN = save  |  RED = cancel"
+
+msgid "Left/Right changes value"
+msgstr "Left/Right changes value"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Max: %s"
+msgstr "Max: %s"
+
+msgid "Min: %s"
+msgstr "Min: %s"
+
+msgid "No items available"
+msgstr "No items available"
+
+msgid "OK = details  |  GREEN = refresh"
+msgstr "OK = details  |  GREEN = refresh"
+
+msgid "OK = open"
+msgstr "OK = open"
+
+msgid "OK = set value  |  GREEN = refresh"
+msgstr "OK = set value  |  GREEN = refresh"
+
+msgid "OK = set value  |  only ✎ entries are writable"
+msgstr "OK = set value  |  only ✎ entries are writable"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Refresh interval"
+msgstr "Refresh interval"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Set Value"
+msgstr "Set Value"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings saved"
+msgstr "Settings saved"
+
+msgid "System Variables"
+msgstr "System Variables"
+
+msgid "Test connection"
+msgstr "Test connection"
+
+msgid "Toggle"
+msgstr "Toggle"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Using cached data. Error: %s"
+msgstr "Using cached data. Error: %s"
+
+msgid "YELLOW = toggle  |  GREEN = save  |  RED = cancel"
+msgstr "YELLOW = toggle  |  GREEN = save  |  RED = cancel"

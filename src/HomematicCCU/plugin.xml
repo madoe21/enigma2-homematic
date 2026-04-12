@@ -1,0 +1,6 @@
+<plugin>
+    <name>HomematicCCU</name>
+    <description>Homematic CCU3 – Geräte und Systemvariablen am TV anzeigen und steuern</description>
+    <author>madoe21</author>
+    <version>1.0.0</version>
+</plugin>

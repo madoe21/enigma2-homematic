@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HomematicCCU 1.0.0\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d devices loaded  •  refresh every %ds"
+msgstr "%d dispositivos cargados  •  actualizar cada %ds"
+
+msgid "%d system variables"
+msgstr "%d variables del sistema"
+
+msgid "AN / AUS"
+msgstr "ON / OFF"
+
+msgid "CCU3 Host"
+msgstr "Host CCU3"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Connection test failed: check host and credentials"
+msgstr "Prueba de conexión fallida: verifique host y credenciales"
+
+msgid "Connection test successful"
+msgstr "Prueba de conexión correcta"
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Error setting value: %s"
+msgstr "Error al establecer valor: %s"
+
+msgid "Error – check settings (BLUE)"
+msgstr "Error – verifique ajustes (AZUL)"
+
+msgid "Homematic CCU3"
+msgstr "Homematic CCU3"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "LEFT/RIGHT = change  |  GREEN = save  |  RED = cancel"
+msgstr "IZQ/DER = cambiar  |  VERDE = guardar  |  ROJO = cancelar"
+
+msgid "Left/Right changes value"
+msgstr "Izq./Der. cambia valor"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Max: %s"
+msgstr "Máx: %s"
+
+msgid "Min: %s"
+msgstr "Mín: %s"
+
+msgid "No items available"
+msgstr "No hay elementos disponibles"
+
+msgid "OK = details  |  GREEN = refresh"
+msgstr "OK = detalles  |  VERDE = actualizar"
+
+msgid "OK = open"
+msgstr "OK = abrir"
+
+msgid "OK = set value  |  GREEN = refresh"
+msgstr "OK = establecer  |  VERDE = actualizar"
+
+msgid "OK = set value  |  only ✎ entries are writable"
+msgstr "OK = establecer  |  solo entradas ✎ son modificables"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
+msgid "Refresh interval"
+msgstr "Intervalo de actualización"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Set Value"
+msgstr "Establecer valor"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+msgid "System Variables"
+msgstr "Variables del sistema"
+
+msgid "Test connection"
+msgstr "Probar conexión"
+
+msgid "Toggle"
+msgstr "Alternar"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Using cached data. Error: %s"
+msgstr "Usando datos en caché. Error: %s"
+
+msgid "YELLOW = toggle  |  GREEN = save  |  RED = cancel"
+msgstr "AMARILLO = alternar  |  VERDE = guardar  |  ROJO = cancelar"
