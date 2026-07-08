@@ -13,7 +13,7 @@ from __future__ import absolute_import
 from Plugins.Plugin import PluginDescriptor
 
 from . import _
-from .api import CCU3Client
+from .core.api import CCU3Client
 from .config_store import HomematicStore
 from .screens import HomematicMainScreen
 
