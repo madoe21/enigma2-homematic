@@ -2,6 +2,8 @@
 
 [![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
 
+📖 [Project page & install instructions](https://madoe21.github.io/enigma2-homematic/)
+
 Homematic CCU3 device viewer and controller for Enigma2. Displays all
 Homematic devices and system variables on the TV screen. Allows changing
 values directly from the remote: thermostat temperatures, switches on/off,
